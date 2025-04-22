@@ -1,12 +1,86 @@
-# React + Vite
+Sure! Here's a clean and beginner-friendly **`README.md`** file for your To-Do List React app:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+```md
+# 📝 React To-Do List App
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A simple and responsive To-Do List web application built with React. You can add tasks, mark them as complete, and delete them.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- Add new tasks ✅
+- Mark tasks as complete with a strike-through ✍️
+- Delete tasks ❌
+- Modular component-based structure 🔧
+
+---
+
+## 📁 Project Structure
+
+```
+📦 your-project/
+├── 📂 src/
+│   ├── 📂 assets/
+│   │   ├── Heading.jsx
+│   │   ├── InputArea.jsx
+│   │   └── Li.jsx
+│   ├── App.jsx
+│   ├── App.css
+│   └── index.js
+├── public/
+│   └── index.html
+└── package.json
+```
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/your-username/react-todo-list.git
+cd react-todo-list
+npm install
+npm run dev
+```
+
+The app will run locally at `http://localhost:5173`.
+
+---
+
+## 🧱 Tech Stack
+
+- React.js
+- HTML5 & CSS3
+- JavaScript (ES6+)
+- Vite or Create React App (your setup)
+
+---
+
+## ✨ Preview
+
+![App Screenshot](/preview/todo.png)
+
+---
+
+## 📌 Future Improvements
+
+- Edit existing tasks
+- Local storage support
+- Task categories or priorities
+- Dark mode 🌙
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Dipan46](https://github.com/Dipan46)
+```
