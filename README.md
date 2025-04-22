@@ -36,7 +36,7 @@ A simple and responsive To-Do List web application built with React. You can add
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/react-todo-list.git
+git clone https://github.com/Dipan46/react-todo-list.git
 cd react-todo-list
 npm install
 npm run dev
