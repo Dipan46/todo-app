@@ -1,6 +1,3 @@
-Sure! Here's a clean and beginner-friendly **`README.md`** file for your To-Do List React app:
-
----
 
 ```md
 # 📝 React To-Do List App
