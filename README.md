@@ -61,7 +61,7 @@ The app will run locally at `http://localhost:5173`.
 
 ## ✨ Preview
 
-![App Screenshot](/preview/todo.png)
+![App Screenshot](/preview/prev.png)
 
 ---
 
