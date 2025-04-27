@@ -4,6 +4,10 @@
 A simple and responsive To-Do List web application built with React. You can add tasks, mark them as complete, and delete them.
 
 ---
+## 🔍 Preview
+- Live - https://dipan46.github.io/todo-app/
+
+---
 
 ## 🚀 Features
 
